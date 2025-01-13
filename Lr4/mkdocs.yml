@@ -1,0 +1,13 @@
+site_name: Web lab 4
+nav:
+ - Home: index.md
+ - Pets:
+     - pets: Pets/pets.md
+     - diets: Pets/diets.md
+     - habited: Pets/habited.md
+     - report: Pets/report.md
+     - registred: Pets/registred.md
+     - login: Pets/login.md
+     - changeUser: Pets/changeUser.md
+theme:
+  name: material
